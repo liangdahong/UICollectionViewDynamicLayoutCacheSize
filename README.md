@@ -1,8 +1,7 @@
 ## 效果演示
 
 <p align="center">
-    <img  width="30%" src="https://user-images.githubusercontent.com/12118567/105635786-d0279c80-5e9f-11eb-8664-08f9360a8902.gif
-"/>
+    <img  width="30%" src="https://user-images.githubusercontent.com/12118567/105635786-d0279c80-5e9f-11eb-8664-08f9360a8902.gif"/>
 <p/>
 
 <p align="center">
