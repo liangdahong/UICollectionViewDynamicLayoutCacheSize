@@ -1,0 +1,11 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'UICollectionViewDynamicLayoutCacheSize_Example' do
+  pod 'UICollectionViewDynamicLayoutCacheSize', :path => '../'
+
+  target 'UICollectionViewDynamicLayoutCacheSize_Tests' do
+    inherit! :search_paths
+  end
+end
